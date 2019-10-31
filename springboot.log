@@ -1,0 +1,10 @@
+2019-10-29 13:47:04.794  INFO 12964 --- [main] com.averyxu.Application                  : Starting Application on Binxu-i7 with PID 12964 (E:\Demos\spring-boot-study\target\classes started by bxu in E:\Demos\spring-boot-study)
+2019-10-29 13:47:04.795  INFO 12964 --- [main] com.averyxu.Application                  : The following profiles are active: dev
+2019-10-29 13:47:05.327  INFO 12964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-29 13:47:05.342  INFO 12964 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-29 13:47:05.342  INFO 12964 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-29 13:47:05.398  INFO 12964 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-29 13:47:05.398  INFO 12964 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 581 ms
+2019-10-29 13:47:05.516  INFO 12964 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-29 13:47:05.632  INFO 12964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-29 13:47:05.634  INFO 12964 --- [main] com.averyxu.Application                  : Started Application in 1.11 seconds (JVM running for 2.288)
