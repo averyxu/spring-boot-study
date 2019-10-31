@@ -8,3 +8,36 @@
 2019-10-29 13:47:05.516  INFO 12964 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
 2019-10-29 13:47:05.632  INFO 12964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
 2019-10-29 13:47:05.634  INFO 12964 --- [main] com.averyxu.Application                  : Started Application in 1.11 seconds (JVM running for 2.288)
+2019-10-31 19:34:08.193  INFO 11596 --- [main] com.averyxu.Application                  : Starting Application on DESKTOP-MRT80K4 with PID 11596 (D:\OwnerProject\spring-boot-study\target\classes started by 13776 in D:\OwnerProject\spring-boot-study)
+2019-10-31 19:34:08.193  INFO 11596 --- [main] com.averyxu.Application                  : The following profiles are active: dev
+2019-10-31 19:34:09.088  INFO 11596 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-31 19:34:09.103  INFO 11596 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-31 19:34:09.108  INFO 11596 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-31 19:34:09.173  INFO 11596 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-31 19:34:09.173  INFO 11596 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 895 ms
+2019-10-31 19:34:09.293  INFO 11596 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-31 19:34:09.413  INFO 11596 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-31 19:34:09.418  INFO 11596 --- [main] com.averyxu.Application                  : Started Application in 1.75 seconds (JVM running for 2.739)
+2019-10-31 19:34:24.334  INFO 11596 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-31 19:34:24.334  INFO 11596 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-31 19:34:24.338  INFO 11596 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-10-31 20:59:58.921  INFO 608 --- [main] com.averyxu.Application                  : Starting Application on DESKTOP-MRT80K4 with PID 608 (D:\OwnerProject\spring-boot-study\target\classes started by 13776 in D:\OwnerProject\spring-boot-study)
+2019-10-31 20:59:58.921  INFO 608 --- [main] com.averyxu.Application                  : The following profiles are active: dev
+2019-10-31 20:59:59.544  INFO 608 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-31 20:59:59.561  INFO 608 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-31 20:59:59.561  INFO 608 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-31 20:59:59.626  INFO 608 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-31 20:59:59.626  INFO 608 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 680 ms
+2019-10-31 20:59:59.746  INFO 608 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-31 20:59:59.866  INFO 608 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-31 20:59:59.866  INFO 608 --- [main] com.averyxu.Application                  : Started Application in 1.225 seconds (JVM running for 1.741)
+2019-10-31 22:06:37.814  INFO 11796 --- [main] com.averyxu.Application                  : Starting Application on DESKTOP-MRT80K4 with PID 11796 (D:\OwnerProject\spring-boot-study\target\classes started by 13776 in D:\OwnerProject\spring-boot-study)
+2019-10-31 22:06:37.814  INFO 11796 --- [main] com.averyxu.Application                  : The following profiles are active: dev
+2019-10-31 22:06:38.399  INFO 11796 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-31 22:06:38.415  INFO 11796 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-31 22:06:38.415  INFO 11796 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-31 22:06:38.477  INFO 11796 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-31 22:06:38.477  INFO 11796 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 633 ms
+2019-10-31 22:06:38.584  INFO 11796 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-31 22:06:38.684  INFO 11796 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-31 22:06:38.689  INFO 11796 --- [main] com.averyxu.Application                  : Started Application in 1.158 seconds (JVM running for 1.812)
